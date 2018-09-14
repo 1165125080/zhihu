@@ -19,5 +19,8 @@
 目前的数据流量可以达到400条/min，相比requests效率提高了很多倍，若是需要更快的速度，可以考虑搭建一个分布式爬虫。
 ## 结果展示
 由于时间及电脑内存限制，目前只爬取了10000+条数据，日后会对结果做一个数据分析
-
+<br>
+![数量](https://github.com/ZZShi/zhihu/blob/master/count.png)
+<br>
+![详细信息](https://github.com/ZZShi/zhihu/blob/master/detail.png)
 
